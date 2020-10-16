@@ -16,7 +16,7 @@
         $toName = "Kemar Meeks"; //place your client's name here
         $website = "TEST";  //place NAME of your client's website
 
-        echo loadContact('myform.php');#demonstrates a simple contact form
+        echo loadContact('simple.php');#demonstrates a simple contact form
 
 
 	    ?>
