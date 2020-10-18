@@ -1,0 +1,17 @@
+form {
+    margin-top: 40px;
+    margin-left: 5%;
+  
+    
+
+}
+
+label{
+    font-size: 1.3em;
+}
+input, textarea{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    font-size: 1em;
+}
