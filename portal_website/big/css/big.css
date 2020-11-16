@@ -97,12 +97,12 @@ footer a:hover {
     }
     
     /* Show Agenda View Calendar */
-    div.embed-container.agenda-view {
+    main.embed-container.agenda-view {
         display:block;
     }
     
     /* Hide Month View Calendar */
-    div.embed-container.month-view {
+    main.embed-container.month-view {
         display:none;
     }
 }

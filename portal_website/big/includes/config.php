@@ -42,17 +42,17 @@ switch(THIS_PAGE){
     break;
 
     case 'shoppingcarts.php':
-        $title = 'Kemar\'s Web Dev Resources';
+        $title = 'Shopping Carts';
         $logo = 'fa-envelope';
         $logo_color = 'style="color: rgb(60, 21, 104)"';
-        $PageID = 'Contact';
+        $PageID = 'Shopping Carts';
     break;
 
     case 'siteapp.php':
-        $title = 'Kemar\'s Web Dev Resources';
+        $title = 'Responsive vs. Mobile';
         $logo = 'fa-envelope';
         $logo_color = 'style="color: rgb(60, 21, 104)"';
-        $PageID = 'Contact';
+        $PageID = 'Responsive Websites and Mobile Apps';
     break;
 
     case 'webcam.php':
