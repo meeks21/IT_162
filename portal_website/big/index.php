@@ -26,11 +26,11 @@
 
 <!-- START RIGHT COL -->
         <aside>
-            <h3>Client Questionnaire Resources</h3>
+            <h3>Client Questionaire Resources</h3>
             <ul>
                 <li><a href="https://www.seoptimer.com/blog/website-design-questionnaire/" target="_blank">The Ultimate Website Design Questionnaire</a></li>
-                <li><a href="https://contentsnare.com/website-design-questionnaire/" target="_blank">Create a website design questionnaire</a></li>
-                <li><a href="https://www.freelancewebprogrammer.com/blog/website-development-questionnaire/" target="_blank">Questions To Answer For Planning A Successful Website</a></li>
+                <li><a href="https://contentsnare.com/website-design-questionnaire/" target="_blank">Create a Website Design Questionnaire</a></li>
+                <li><a href="https://www.freelancewebprogrammer.com/blog/website-development-questionnaire/" target="_blank">Questions To Answer For Planning a Successful Website</a></li>
             </ul>
             
         </aside>

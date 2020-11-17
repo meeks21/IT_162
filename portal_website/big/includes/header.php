@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="css/nav.css"/>
     <link rel="stylesheet" href="css/big.css"/>
     <link rel="stylesheet" href="css/form.css"/>
-    
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&display=swap" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     <script src="https://s3.amazonaws.com/menumaker/menumaker.min.js" type="text/javascript"></script>
     <script src="js/script.js"></script>    

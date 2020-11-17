@@ -19,7 +19,7 @@
         
             <ul>
                 <li><a href="thinkmobiles.com/blog/responsive-website-vs-mobile-app." target="_blank">Responsive Website vs Mobile App: Comparison</a></li>
-                <li><a href="www.mobindustry.net/mobile-app-responsive-website-or-something-in-between-what-to-choose-for-your-business-in-2019/" target="_blank">Mobile App, Responsive Website, or Something in Between: What to Choose for Your Business</a></li>
+                <li><a href="www.mobindustry.net/mobile-app-responsive-website-or-something-in-between-what-to-choose-for-your-business-in-2019/" target="_blank">Mobile App, Responsive Website, or Something In Between</a></li>
                 
             </ul>
         </aside>
