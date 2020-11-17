@@ -1,0 +1,17 @@
+label {
+    margin-bottom: 0.5em;
+    display: inline-block;
+}
+
+input{
+    margin-bottom: 1em;
+}
+
+textarea{
+    margin-bottom: 1em;
+    width: 50%;
+}
+
+fieldset{
+    margin-bottom: 1em; 
+}

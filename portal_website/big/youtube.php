@@ -1,7 +1,9 @@
 <?php include "includes/header.php"?>
 <!-- START LEFT COL -->
 
-            <p>Iframe a responsive Google Youtube (about web development) here</p>
+        <div class='embed-container'>
+            <iframe src='https://www.youtube.com/embed/uNuCy9wkszM' frameborder='0' allowfullscreen></iframe>
+        </div>
 
 
         </section>
@@ -10,9 +12,13 @@
 
 <!-- START RIGHT COL -->
         <aside>
-            <h3>Video Info</h3>
+            <h3>Website Accessibility Info</h3>
         
-            <p>Explain what the is about here</p>
+            <ul>
+                <li><a href="https://webaim.org/intro/" target="_blank">Introduction to Web Accessibility</a></li>
+                <li><a href="https://www.usability.gov/what-and-why/accessibility.html" target="_blank">Accessibility Basics</a></li>
+                <li><a href="https://developers.google.com/web/fundamentals/accessibility" target="_blank">Web Fundamentals: Accessibility</a></li>
+            </ul>
             
         </aside>
 <!-- END RIGHT COL -->

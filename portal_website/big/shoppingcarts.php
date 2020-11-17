@@ -15,10 +15,14 @@
 
 <!-- START RIGHT COL -->
         <aside>
-            <h3>Basic Website Design Cycle</h3>
+            <h3>Shopping Cart Resources</h3>
         
-            <p>Provide at least 3 (linked) resources that help you and/or your web team with steps found in very basic website design and development cycle. For example, client surveys, wireframing tools, etc.</p>
-            <p>Here's a website to help get you started,<a href="https://business.tutsplus.com/articles/..." /> https://business.tutsplus.com/articles/...</p>
+            <ul>
+                <li><a href="https://www.techradar.com/best/best-shopping-cart-software" target="_blank">Best shopping cart software of 2020</a></li>
+                <li><a href="https://www.techradar.com/best/best-credit-card-processing-service" target="_blank">Best credit card processing services of 2020: how to take payments online</a></li>
+                <li><a href="https://www.techradar.com/news/best-ecommerce-hosting" target="_blank">Best e-commerce hosting providers in 2020</a></li>
+                <li><a href="https://www.3dcart.com/shopping-cart-software.html" target="_blank">A Powerful & Secure Shopping Cart for Your Website</a></li>
+            </ul>
         </aside>
 <!-- END RIGHT COL -->
 

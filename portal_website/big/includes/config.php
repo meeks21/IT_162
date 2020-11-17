@@ -56,31 +56,31 @@ switch(THIS_PAGE){
     break;
 
     case 'webcam.php':
-        $title = 'Kemar\'s Web Dev Resources';
+        $title = 'Live Web Cam';
         $logo = 'fa-envelope';
         $logo_color = 'style="color: rgb(60, 21, 104)"';
-        $PageID = 'Contact';
+        $PageID = 'NASA Earth From Space - Earth Viewing cameras ISS feed';
     break;
 
     case 'map.php':
-        $title = 'Kemar\'s Web Dev Resources';
+        $title = 'Google Maps';
         $logo = 'fa-envelope';
         $logo_color = 'style="color: rgb(60, 21, 104)"';
-        $PageID = 'Contact';
+        $PageID = 'Embed Responsive Map';
     break;
 
     case 'calendar.php':
-        $title = 'Kemar\'s Web Dev Resources';
+        $title = 'Responsive Calendar';
         $logo = 'fa-envelope';
         $logo_color = 'style="color: rgb(60, 21, 104)"';
-        $PageID = 'Contact';
+        $PageID = 'Calendar';
     break;
 
     case 'youtube.php':
-        $title = 'Kemar\'s Web Dev Resources';
+        $title = 'Website Accessibility';
         $logo = 'fa-envelope';
         $logo_color = 'style="color: rgb(60, 21, 104)"';
-        $PageID = 'Contact';
+        $PageID = 'Website Accessibility and why it\'s important';
     break;
 
     default:

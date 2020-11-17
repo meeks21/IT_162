@@ -17,23 +17,22 @@
         $website = "TEST";  //place NAME of your client's website
 
         echo loadContact('multiple.php');#demonstrates a simple contact form
-
-
-	    ?>
-            <p class="bio">Develop and place an updated version of the "multiple.php" contact form (located in your web120 includes folder) on this main page. Adjust its fields to ask the basic questions you'd always need to ask any client to help determine if you can help them with their website needs.
-            </p>
-
-
+        ?>
+        
+            
         </section>
 <!-- END LEFT COL -->
 
 
 <!-- START RIGHT COL -->
         <aside>
-            <h3>Basic Website Design Cycle</h3>
-        
-            <p>Provide at least 3 (linked) resources that help you and/or your web team with steps found in very basic website design and development cycle. For example, client surveys, wireframing tools, etc.</p>
-            <p>Here's a website to help get you started,<a href="https://business.tutsplus.com/articles/..." /> https://business.tutsplus.com/articles/...</p>
+            <h3>Client Questionnaire Resources</h3>
+            <ul>
+                <li><a href="https://www.seoptimer.com/blog/website-design-questionnaire/" target="_blank">The Ultimate Website Design Questionnaire</a></li>
+                <li><a href="https://contentsnare.com/website-design-questionnaire/" target="_blank">Create a website design questionnaire</a></li>
+                <li><a href="https://www.freelancewebprogrammer.com/blog/website-development-questionnaire/" target="_blank">Questions To Answer For Planning A Successful Website</a></li>
+            </ul>
+            
         </aside>
 <!-- END RIGHT COL -->
 

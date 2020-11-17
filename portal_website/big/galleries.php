@@ -22,8 +22,12 @@
         <aside>
             <h3>Basic Website Design Cycle</h3>
         
-            <p>Provide at least 3 (linked) resources that help you and/or your web team with steps found in very basic website design and development cycle. For example, client surveys, wireframing tools, etc.</p>
-            <p>Here's a website to help get you started,<a href="https://business.tutsplus.com/articles/..." /> https://business.tutsplus.com/articles/...</p>
+            <ul>
+                <li><a href="https://www.css-tricks.com/can-get-pretty-far-making-slider-just-html-css/" target="_blank">You can get pretty far in making a slider with just HTML and CSS</a></li>
+                <li><a href="https://www.websitecreationworkshop.com/blog/wordpress-tips/image-gallery-vs-slider/" target="_blank">The Difference Between ‘Image Gallery’ vs. ‘Image Slider’</a></li>
+                <li><a href="https://www.htmlgoodies.com/beyond/css/working-with-the-css-image-gallery.html" target="_blank">Working with the CSS Image Gallery</a></li>
+                <li><a href="https://medium.com/@bradley_nice/19-best-responsive-jquery-slider-plugins-b3e5692e9af9" target="_blank">19 Best Responsive jQuery Slider Plugins</a></li>
+            </ul>
         </aside>
 <!-- END RIGHT COL -->
 

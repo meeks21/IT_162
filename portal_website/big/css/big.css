@@ -5,45 +5,65 @@
     padding:0;
 }
 
-html,body {
+html,body{
     background-color:#d2b88f;
 }
 
-main.wrapper,footer {
+main.wrapper,footer{
     width:90%;
     margin:auto;
     background-color:#fff;
     overflow:auto;
 }
 
-section {
+section{
     float:left;
     width:64%;
     padding-left:2.5%;
 }
 
-aside {
+aside{
     float:right;
     width:26%;
     padding-right:2.5%;
 }
 
-header h1 {
+header h1{
     text-align:right;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6{
     font-weight: normal;
-    padding:.5em;
+    padding-top: 1em;
+    padding-bottom: 0.3em;
+    padding-right: 3%;
 }
 
-p {
-    margin:1em .8em;
+p{
+    margin:1em ;
+    padding-right: 3%;
 }
 
-div.dot iframe {
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 1em;
+}
+
+.logo{
+    margin-right: 1%;
+}
+
+div.dot iframe{
     border:0;
     overflow:no;
+    max-width: 100%;
 }
 
 /* START Global Embed Responsively Rules! */
@@ -92,17 +112,31 @@ footer a:hover {
 
 /* Phat PHONE Rules! */
 @media all and (max-width:860px) {
+
     main.wrapper {
-        background-color:blue;
+        
+    }
+
+    section{
+        float:none;    
+    }
+
+    aside{
+        float:none;
+        width: 90%;
+        margin-top: 1em;
+        padding-left:2.5%;
+        
     }
     
+    
     /* Show Agenda View Calendar */
-    main.embed-container.agenda-view {
+    div.embed-container.agenda-view {
         display:block;
     }
     
     /* Hide Month View Calendar */
-    main.embed-container.month-view {
+    div.embed-container.month-view {
         display:none;
     }
 }

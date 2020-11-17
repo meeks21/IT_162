@@ -1,8 +1,10 @@
 <?php include "includes/header.php"?>
 <!-- START LEFT COL -->
 
-            <p>Iframe two different types of web cams. Left column will be a live youtube video</p>
 
+            <div class='embed-container'>
+                <iframe src='https://www.youtube.com/embed/DDU-rZs-Ic4' frameborder='0' allowfullscreen></iframe>
+            </div>
 
         </section>
 <!-- END LEFT COL -->
@@ -10,10 +12,10 @@
 
 <!-- START RIGHT COL -->
         <aside>
-            <h3>DOT Camer</h3>
-        
-            <p>Left column will be a live Department of transportation video</p>
-            
+            <h3>Seattle DOT Traffic Camera</h3>
+            <div class="dot">
+                <iframe src="//content.jwplatform.com/players/MEDIAID-DFRTA8HH.html" width="320" height="260" frameborder="0" scrolling="auto"></iframe>
+            </div>
         </aside>
 <!-- END RIGHT COL -->
 

@@ -5,7 +5,7 @@
         <br>
         <p>On the other hand mobile apps are for businesses that want to provide a unique user experience to their clients, and while a responsive website is aimed at attracting new or occasional users mobile apps are aimed at regular clients (Korol). According to Korol a mobile app should not be a  clone of an organization's existing website, but rather a mobile app should highlight the key functions of your business. The mobile app's functions should be made simple to use for the customer. They also must be downloaded from some form of app store, they can function offline, they tend to have a more user friendly design, and they have access to mobile phone components (Korol). </p>
         <br>
-	    <p>Despite the differences between these two approaches that fact remains that “the use of mobile devices is growing extremely fast, so every business should be present on mobile devices in one way or another. Either mobile apps or responsive webs are great solutions”(Cherednichenko). However it is important to note that mobile devices account for at least 51% of the global internet traffic, and 90% of that traffic belongs to mobile apps (Cherednichenko). Yet most of that 90% of traffic belongs to banking apps, or popular as apps such as facebook and instagram (Cherednichenko). “Though traffic on mobile is huge, it doesn’t belong to apps only. The decision to create a mobile website or app depends on your domain, business processes, goals, and other factors like budget and deadline”(Cherednichenko).
+        <p>Despite the differences between these two approaches that fact remains that “the use of mobile devices is growing extremely fast, so every business should be present on mobile devices in one way or another. Either mobile apps or responsive webs are great solutions”(Cherednichenko). However it is important to note that mobile devices account for at least 51% of the global internet traffic, and 90% of that traffic belongs to mobile apps (Cherednichenko). Yet most of that 90% of traffic belongs to banking apps, or popular as apps such as facebook and instagram (Cherednichenko). “Though traffic on mobile is huge, it doesn’t belong to apps only. The decision to create a mobile website or app depends on your domain, business processes, goals, and other factors like budget and deadline”(Cherednichenko).
         </p>
 
 
@@ -15,10 +15,13 @@
 
 <!-- START RIGHT COL -->
         <aside>
-            <h3>Basic Website Design Cycle</h3>
+            <h3>Responsive Website and Mobile App Resources</h3>
         
-            <p>Provide at least 3 (linked) resources that help you and/or your web team with steps found in very basic website design and development cycle. For example, client surveys, wireframing tools, etc.</p>
-            <p>Here's a website to help get you started,<a href="https://business.tutsplus.com/articles/..." /> https://business.tutsplus.com/articles/...</p>
+            <ul>
+                <li><a href="thinkmobiles.com/blog/responsive-website-vs-mobile-app." target="_blank">Responsive Website vs Mobile App: Comparison</a></li>
+                <li><a href="www.mobindustry.net/mobile-app-responsive-website-or-something-in-between-what-to-choose-for-your-business-in-2019/" target="_blank">Mobile App, Responsive Website, or Something in Between: What to Choose for Your Business</a></li>
+                
+            </ul>
         </aside>
 <!-- END RIGHT COL -->
 

@@ -20,10 +20,12 @@
 
 <!-- START RIGHT COL -->
         <aside>
-            <h3>Basic Website Design Cycle</h3>
-        
-            <p>Provide at least 3 (linked) resources that help you and/or your web team with steps found in very basic website design and development cycle. For example, client surveys, wireframing tools, etc.</p>
-            <p>Here's a website to help get you started,<a href="https://business.tutsplus.com/articles/..." /> https://business.tutsplus.com/articles/...</p>
+            <h3>Flexbox Resources</h3>
+            <ul>
+                <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background" target="_blank">A Complete Guide to Flexbox</a></li>
+                <li><a href="https://blog.zipboard.co/getting-started-with-css-flexbox-f5b2b5a5b87d" target="_blank">Getting Started with CSS Flexbox</a></li>
+            </ul>
+            
         </aside>
 <!-- END RIGHT COL -->
 
