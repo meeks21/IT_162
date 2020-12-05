@@ -42,6 +42,7 @@ $nav1['index.php'] = 'Welcome';
 $nav1['big/index.php'] = 'Big';
 $nav1['fp/index.php'] = 'Final Project';
 $nav1['contactme.php'] = 'Contact Kemar';
+$nav1['https://docs.google.com/document/d/1IoE9NOLgAzzqIK2QPTaaRn5t4Vq2vINusyyGw9ZMJkQ/edit?usp=sharing'] = 'Flowchart & WireFrame';
 
 /*here were creating a function to generate links and keep the highlght on the current page
 <li><a href="index.php" class="selected">Welcome</a></li>
