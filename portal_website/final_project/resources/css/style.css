@@ -1,0 +1,187 @@
+
+/*************Global Styling************/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    color: #555;
+    font-family: 'Lato', 'Arial', 'sans-serif';
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/*******************End********************/
+
+/*************Header Styles****************
+ the class name is inserted vie the 
+ php congfig file.
+*******************************************/
+
+.main-header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(images/pexels-kyle-loftus-2510428.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.second-header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(images/pexels-kyle-loftus-2510428.jpg);
+    background-size: auto;
+    background-position: center;
+    height: 115px;
+}
+/*****************************************/
+
+.title-photo-container {width: 60%;}
+
+.title-photo-small {display: none;} 
+
+.title-photo-big {display: block;}
+
+.title-photo-extrasmall {display: none;}
+
+main{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.about-main{
+    height: 75vh;
+}
+
+section{
+    height: 100vh;
+    padding-top: 3rem;
+}
+#more_info_section p {
+    line-height: 1.6;
+}
+
+.bio-title{
+    margin-bottom: 4rem;
+}
+
+.bio-sub-title {
+    margin-bottom: 2rem;
+}
+
+.bio-sub-title p{
+    font-size: .9rem;
+}
+.bio-content {
+    text-indent: 2.5rem;
+    line-height: 1.6;
+}
+
+.bio-title-header::after {
+    display: block;
+    height: 2px;
+    background-color: #0E3659;
+    content: " ";
+    max-width: 60%;
+    margin-top: 1.5rem;
+}
+
+.work-title{
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;   
+}
+
+.work-content{
+    padding-left: 0.5rem;
+    line-height: 1.6;
+}
+
+footer {
+    
+    color: #fff;
+    background-color: #071b2d;
+    padding-top: 3rem;
+
+}
+
+footer a{   
+    color: #fff;
+    display: inline-block;
+    margin-right: 2px;
+    text-decoration: none;
+}
+
+footer p {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 2rem ;
+    word-spacing: 6px;
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    float: left;
+    padding-top: 15px;
+}
+
+
+.hero-text-box {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: rgb(202, 199, 199);
+    font-size: 260%;
+    font-weight: 300;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+.btn:link,
+.btn:visited {
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+    color: #fff;
+    transition: background-color 0.3s, border 0.3s;
+}
+
+.btn-full:link,
+.btn-full:visited {
+    background-color:#0E3659;
+    border: 1px solid #0E3659;
+    margin-right: 15px;
+}
+
+.btn-ghost:link,
+.btn-ghost:visited {
+    border: 1px solid #D93D4A;
+}
+
+.btn:hover,
+.btn:active{
+    background-color: #D93D4A;
+}
+
+.btn-full:hover,
+.btn-full:active {
+    border: 1px solid #D93D4A;
+}
+
+.btn-ghost:hover,
+.btn-ghost:active {
+    border: 1px solid #D93D4A;
+}
+

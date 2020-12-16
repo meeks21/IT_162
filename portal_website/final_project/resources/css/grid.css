@@ -1,0 +1,80 @@
+.grid-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 70% 27%;
+    grid-row-gap: 5rem;
+    grid-column-gap: 3%;
+}
+
+.services-grid-container{
+    grid-template-columns: 30% 30% 30%;
+    grid-auto-rows: minmax(150px, auto);
+    grid-template-areas:
+    "text1 image1 image1"
+    "image2 image2 text2"
+    "text3 image3 image3"
+    "image4 image4 text4 "
+       
+}
+
+.footer-grid{
+    margin-bottom: 2rem;
+}
+
+.services-grid-container h2{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.services-grid-container p{
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+.services-grid-item{
+    height: 100%;
+    max-height: 500px;
+    
+}
+.services-grid-item img{
+    max-width: 100%;
+}
+.service-1-text, 
+.service-2-text,
+.service-3-text,
+.service-4-text {
+    padding-left: 1rem;
+}
+
+
+.service-1-text{
+    grid-area: text1;
+}
+
+.service-1-image{
+    grid-area: image1;
+} 
+
+.service-2-text{
+    grid-area: text2;
+}
+
+.service-2-image{
+    grid-area: image2;
+}
+
+.service-3-text{
+    grid-area: text3;
+}
+.service-3-image{
+    grid-area: image3;
+}
+
+.service-4-text{
+    grid-area: text4;
+}
+
+.service-4-image{
+    grid-area: image4;
+}
+
+
+

@@ -1,0 +1,95 @@
+
+/* Big tablets to 1200px (widths smaller than the 1140px row) */
+@media only screen and (max-width: 1200px){
+    .hero-text-box {        
+        width: 100%;
+        padding: 0 2%;        
+    }
+    .row {padding: 0 2%;}
+
+    
+}
+
+/* Small tablets to big tablets from 768px to 1023px */
+@media only screen and (max-width: 1023px){
+
+    html { font-size: 18px;}
+
+    .services-grid-container{
+        grid-template-columns: 100%;
+        grid-template-areas:
+        "image1"
+        "text1"
+        "image2"
+        "text2"
+        "image3"
+        "text3"
+        "image4"
+        "text4"
+    
+    }
+    .footer-grid img {
+        width: 85%;
+    }
+    section{
+        height: auto;
+        padding-bottom: 5rem;
+    }
+}
+/* small phones 481px to 767px */
+@media only screen and (max-width: 767px){  
+
+    .mobile-nav-icon {display: inline-block;}
+
+    .main-nav {
+        display: none;
+        float: left;
+        margin-top: 35px;
+        margin-left: 25px;
+    }
+
+    .main-nav li {display: block;}
+    .main-nav li a:link,
+    .main-nav li a:visited{
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 80%;
+    }
+
+}
+/* .title-photo-big breaks at 540px */
+@media only screen and (max-width: 540px){
+    .title-photo-small {display: block;}
+    .title-photo-big {display: none;}
+}
+
+/* small phones 411px to 480px */
+@media only screen and (max-width: 480px){
+    
+    .logo {
+        height: 80px;
+    }
+    main{
+        margin-top: 5rem;;
+    }
+    
+    .about-main{
+        height: 100vh
+    }
+
+    .row {padding: 0 4%;}
+
+}
+
+/* iphone 5(409px) or smaller */
+@media only screen and (max-width: 410px){
+    .title-photo-small {display: none;}
+    .title-photo-extrasmall{display: block;}
+
+    .btn:link,
+    .btn:visited {
+        padding: 5px 15px;
+        font-size: 70%;
+    }
+}

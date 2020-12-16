@@ -1,0 +1,67 @@
+.main-nav {
+
+    float: right;
+    list-style-type: none;
+    margin-top: 50px;
+
+}
+
+.main-nav li {
+
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 80%;
+
+}
+
+.main-nav li a:link,
+.main-nav li a:visited {
+
+    padding: 8px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.4s;
+
+}
+
+
+
+.main-nav li a:hover,
+.main-nav li a:active {
+
+    border-bottom: 2px solid #D93D4A;
+    
+}
+
+/************************************************
+
+
+*************************************************/
+
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.mobile-nav-icon ion-icon{
+    font-size: 200%;
+}
+/* *********************footer nav *********** */
+/* footer nav{
+    float: right;
+} */
+
+.social-nav{
+    float: right;
+    
+}
+.social-nav li{
+    display: inline-block;
+    margin-left: 1rem;
+
+}
